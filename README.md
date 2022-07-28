@@ -29,5 +29,5 @@ Bi-directional Recurrent MVSNet for High-resolution Multi-view Stereo
 2017/04 - 2021/03 青山学院大学 理工学部 情報テクノロジー学科
 
 ### 受賞
-MIRU学生奨励賞, 第25回画像の認識・理解シンポジウム(MIRU), 2022
+- MIRU学生奨励賞, 第25回画像の認識・理解シンポジウム(MIRU), 2022
 
