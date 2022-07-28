@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## 藤冨　卓
+Taku Fujitomi
 
-You can use the [editor on GitHub](https://github.com/fujitomi/fujitomi/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+筑波大学大学院 システム情報工学研究群 
+<br>博士前期課程2年
+<br><br>
+国立研究開発法人 産業技術総合研究所 人工知能研究センター 
+<br>リサーチアシスタント
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### お知らせ
+2022/07/28 &emsp; MIRU2022でMIRU学生奨励賞を受賞しました。
+<br>
+2022/06/20 &emsp; ICIP2022に論文が採択されました。
+<br>
+2022/05/31 &emsp; MIRU2022のロングオーラルに論文が採択されました。
+<br>
+2021/06/05 &emsp; MVA2021に論文が採択されました。
+<br>
 
-### Markdown
+### 国際会議（査読あり）
+- Taku Fujitomi, Seiya Ito, Naoshi Kaneko, Kazuhiko Sumi.
+Bi-directional Recurrent MVSNet for High-resolution Multi-view Stereo
+17th International Conference on Machine Vision Applications (MVA), 2021.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 学歴
+2021/04 - 筑波大学大学院 理工情報生命学術院 システム情報工学研究群 知能機能システム学位プログラム
+<br>
+2017/04 - 2021/03 青山学院大学 理工学部 情報テクノロジー学科
 
-```markdown
-Syntax highlighted code block
+### 受賞
+MIRU学生奨励賞, 第25回画像の認識・理解シンポジウム(MIRU), 2022
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fujitomi/abcde/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
