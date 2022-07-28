@@ -1,5 +1,7 @@
-## 藤冨　卓
-Taku Fujitomi
+
+## 
+藤冨　卓
+<br>Taku FUJITOMI
 
 筑波大学大学院 システム情報工学研究群 
 <br>博士前期課程2年
