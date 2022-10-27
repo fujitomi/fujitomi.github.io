@@ -17,10 +17,13 @@ Taku FUJITOMI
 2021/06/05 &emsp; MVA2021に論文が採択されました。
 <br>
 
-### 国際会議（査読あり）
+### 国際会議発表
 - Taku Fujitomi, Seiya Ito, Naoshi Kaneko, Kazuhiko Sumi.
 Bi-directional Recurrent MVSNet for High-resolution Multi-view Stereo
 17th International Conference on Machine Vision Applications (MVA), 2021.
+- Taku Fujitomi, Ken Sakurada, Ryuhei Hamaguchi, Hidehiko Shishido, Masaki Onishi, Yoshinari Kameda.
+LB-NeRF: Light Bending Neural Radiance Fields for Transparent Medium
+29th IEEE International Conference on Image Processing (IEEE ICIP), 2022.
 
 ### 学歴
 2021/04 - 筑波大学大学院 理工情報生命学術院 システム情報工学研究群 知能機能システム学位プログラム
